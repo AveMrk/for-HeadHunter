@@ -7,12 +7,12 @@
 ## Образование и навыки
 Так как я ещё не до конца завершила своё обучение, на данный момент я обладаю навыками Frontend-разработчика, а именно:
 * HTML 
-![Сертификат прохождения программы](C:\Users\Admin\Downloads\certificate.pdf)
+![Сертификат прохождения программы](https://netology.ru/backend/api/user/programs/30034/pdf_certificate)
 * CSS
-![Сертификат прохождения программы](C:\Users\Admin\Downloads\certificate.pdf)
+![Сертификат прохождения программы](https://netology.ru/backend/api/user/programs/25407/pdf_certificate)
 * Адаптивная вёрстка
-![Сертификат прохождения программы](C:\Users\Admin\Downloads\certificate.pdf)
+![Сертификат прохождения программы](https://netology.ru/backend/api/user/programs/25407/pdf_certificate)
 * Основы JavaScript
-![Сертификат прохождения программы](C:\Users\Admin\Downloads\certificate.pdf)
+![Сертификат прохождения программы](https://netology.ru/backend/api/user/programs/27256/pdf_certificate)
 * GIT
-![Сертификат прохождения программы](C:\Users\Admin\Downloads\certificate.pdf)
+![Сертификат прохождения программы](https://netology.ru/backend/api/user/programs/30034/pdf_certificate)
